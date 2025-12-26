@@ -12,5 +12,8 @@
   "type": "commonjs",
   "devDependencies": {
     "vitest": "^4.0.16"
+  },
+  "dependencies": {
+    "crypto-js": "^4.2.0"
   }
 }

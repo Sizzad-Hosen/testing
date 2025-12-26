@@ -12,3 +12,5 @@ describe('Integration Test: calculateSum', () => {
     expect(result).toBe(20);
   });
 });
+
+
